@@ -18,7 +18,7 @@ Click the "Clear" button to erase the entered password and start fresh.
 ## **Installation:**
 Ensure you have Python installed on your system.
 Clone the SecurePass repository to your local machine.
-Run the tkinterApp.py file to launch the application.
+Run the SecurePass.py file to launch the application.
 
 ## **License:**
 SecurePass is distributed under the MIT License.
