@@ -7,6 +7,9 @@ from tkinter import PhotoImage, NW, messagebox
 import zxcvbn
 import webbrowser
 from pygame import mixer
+
+
+
 # Image handling && Image resizing 
 class AutoResizingImage:
     def __init__(self, master, path):
@@ -140,7 +143,6 @@ list_button.place()
 
 # Create a Label widget with a clickable link
 link_label = tk.Label(window, text="Learn more 👉 www.saidsecurity.com", fg="Blue",cursor="hand2")
-#About_me = tk.Button(window, text="About" ,fg="Blue", bg=None)
 link_label.bind("<Button-1>", open_link)
 link_label.configure(font=("Times", 14))
 button3_pwned.bind("<Button-1>", open_link2)
@@ -165,7 +167,6 @@ button2_clear.place(relx=0.5, rely=0.80, anchor=tk.CENTER)
 button2_clear.configure(font=("New Times Roman", 13))
 button3_pwned.place(relx=0.5, rely=0.87, anchor=tk.CENTER)
 button3_pwned.configure(font=("Times New Roman",11))
-#About_me.place(relx=0.5, rely=0.25, anchor=tk.CENTER)
 link_label.place(x=7, y=7)
 list_button.place(x=5, y=45)
 list_button.configure(font=("New Times Roman",10))
