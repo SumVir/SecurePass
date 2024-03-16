@@ -6,7 +6,7 @@
 ## **Features:**
 Password strength evaluation using zxcvbn library.
 Password feedback and suggestions for improvement.
-Integration with Have I Been Pwned API to check if a password has been compromised.
+Integration with Have I Been Pwned link to check if a password has been compromised.
 Top 20 most commonly used passwords list to avoid.
 
 ## **Usage:**
