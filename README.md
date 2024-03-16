@@ -1,6 +1,6 @@
 # SecurePass
 
- <img src="testlogo.svg" alt="Python Logo" width="150" height="150">
+ <img src="testlogo.svg" alt="Python Logo" width="200" height="200">
 "SecurePass" is a Python-based password strength checker with an intuitive interface. It evaluates password strength, offers tips for improvement, and warns against common weak passwords. Users can also check if their passwords have been compromised in data breaches.
 
 ## **Features:**
@@ -20,7 +20,7 @@ Ensure you have Python installed on your system.
 Clone the SecurePass repository to your local machine.
 Run the tkinterApp.py file to launch the application.
 
-# **License:**
+## **License:**
 SecurePass is distributed under the MIT License.
 
 # **Contact:**
