@@ -37,7 +37,7 @@ window.title("Password Strength Checker")
 canv = Canvas(window, width=1200, height=600, bg='white')
 canv.pack(fill='both', expand=True)
 
-img = AutoResizingImage(canv, r"C:\Users\PC\OneDrive\.vscode\Tests.tool\appbg.png")
+img = AutoResizingImage(canv, r"appbg.png")
 
 def resize(event):
     img.update_image()
