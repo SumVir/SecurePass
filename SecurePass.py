@@ -6,7 +6,7 @@ from PIL import Image, ImageTk
 from tkinter import PhotoImage, NW, messagebox
 import zxcvbn
 import webbrowser
-from pygame import mixer
+
 
 
 
